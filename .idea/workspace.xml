@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
   </component>
-  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -83,7 +83,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +157,6 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -177,22 +172,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="938" height="456" key="GridCell.Tab.0.bottom" timestamp="1601484326306">
+    <state width="938" height="456" key="GridCell.Tab.0.bottom" timestamp="1601484431900">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="938" height="456" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1601484326306" />
-    <state width="938" height="456" key="GridCell.Tab.0.center" timestamp="1601484326306">
+    <state width="938" height="456" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1601484431900" />
+    <state width="938" height="456" key="GridCell.Tab.0.center" timestamp="1601484431900">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="938" height="456" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1601484326306" />
-    <state width="938" height="456" key="GridCell.Tab.0.left" timestamp="1601484326305">
+    <state width="938" height="456" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1601484431900" />
+    <state width="938" height="456" key="GridCell.Tab.0.left" timestamp="1601484431899">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="938" height="456" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1601484326305" />
-    <state width="938" height="456" key="GridCell.Tab.0.right" timestamp="1601484326306">
+    <state width="938" height="456" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1601484431899" />
+    <state width="938" height="456" key="GridCell.Tab.0.right" timestamp="1601484431900">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="938" height="456" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1601484326306" />
+    <state width="938" height="456" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1601484431900" />
     <state x="1082" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1601480916797">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
